@@ -1,14 +1,15 @@
-*{
+* {
   font-family: Verdana,Tahoma, sans-serif;
   font-weight: 100;
   margin: 0;
-  padding: 0;color: white;
+  padding: 0; color: white;
 }
-.nav a{   
-    color: #ffffff;
+.nav a {   
+    color: #faf2f2;
     text-decoration-line: none;
-    font-size: 30px;}
-.nav{
+    font-size: 30px;
+  }
+.nav {
     background-color: #d93737;
     display: flex;
     justify-content: flex-end;
@@ -18,7 +19,7 @@
   }
   .Welcome-section{
     background-color: #0e0d0d;
-    color: #ffffff;
+    color: #fffbfb;
     font-size: 20px;
     display: flex;
     flex-direction: column;
