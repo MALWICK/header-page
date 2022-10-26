@@ -1,29 +1,29 @@
 .nav {
-    background-color: rgb(225, 38, 38);
+    background-color: #e12626;
     display: flex;
     justify-content: flex-end;
     padding: 30px;
     gap: 30px;
     width: 100vh 100vh;
 }
-.nav a{
-    color: white;
-     text-decoration-line: none;
+.nav a {
+    color: #fff;
+    text-decoration-line: none;
     font-size: 30px;
 }
-.introduction{
-    background-color: rgb(14, 13, 13);
-    color: white;
+.introduction {
+    background-color: #0b0a0a;
+    color: #fff;
     font-size: 20px;
     font-weight: 300;
     display: flex;
     flex-direction: column;
     height: 80vh;
     width: 100vh 100vh;
-     text-align: center;
+    text-align: center;
     justify-content: center;
 }
-p{
+p {
     color: brown;
     font-size: 170%;
 }
